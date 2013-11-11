@@ -5,7 +5,7 @@
 
 /**
  *
- * @author grahambond
+ * @author unasscribed
  */
 public class Electronics extends Product {
     
